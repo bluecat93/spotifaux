@@ -1,8 +1,10 @@
 Spotifaux — Project README
 
 Overview  
-The Spotifaux project is a minimal two-part web application composed of a frontend (client) and a backend (API).  
-The frontend is a single-page app responsible for the user interface and client-side logic, while the backend is a REST API that handles business logic, data persistence, and authentication.
+Spotifaux is a minimal two-part web application consisting of a frontend (client) and a backend (API).  
+It was developed as a take-home assignment to demonstrate full-stack design, implementation, and integration.  
+The frontend is a single-page application responsible for the user interface and client-side logic,  
+while the backend is a REST API that handles business logic, data persistence, and authentication.
 
 To build and run both the frontend and backend using Docker Compose:
 * docker compose up --build
