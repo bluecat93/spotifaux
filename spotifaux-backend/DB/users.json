@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "email": "eden@eden.com",
+    "password": "$bcrypt-sha256$v=2,t=2b,r=12$DF3bfF43kgdF4UJ1kzm51u$5eVA0NBouP5InnkdrnqzDJLnYR03aju",
+    "name": "eden",
+    "role": "user"
+  }
+]

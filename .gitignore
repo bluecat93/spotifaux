@@ -1,0 +1,11 @@
+echo "__pycache__/
+*.pyc
+.venv/
+.env
+node_modules/
+dist/
+build/
+# spotifaux-backend/DB/users.json
+# spotifaux-backend/DB/playlists.json
+.DS_Store
+*.log" > .gitignore

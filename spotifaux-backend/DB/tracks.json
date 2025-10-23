@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Code to Groove",
+    "artist": "Eli Codewell",
+    "album": "Synthetic Emotions",
+    "duration": 30,
+    "preview_file": "Code_to_Groove_preview.mp3"
+  },
+  {
+    "id": 2,
+    "title": "Debugging My Dreams",
+    "artist": "Eli Codewell",
+    "album": "Synthetic Emotions",
+    "duration": 30,
+    "preview_file": "Debugging_My_Dreams_preview.mp3"
+  },
+  {
+    "id": 3,
+    "title": "Startup Nation Vibes",
+    "artist": "Ava Synth",
+    "album": "Algorithmic Love Songs",
+    "duration": 30,
+    "preview_file": "Startup_Nation_Vibes_preview.mp3"
+  },
+  {
+    "id": 4,
+    "title": "Binary Boogie",
+    "artist": "Ava Synth",
+    "album": "Algorithmic Love Songs",
+    "duration": 30,
+    "preview_file": "Binary_boogie_preview.mp3"
+  },
+  {
+    "id": 5,
+    "title": "This Is Not a Real Song",
+    "artist": "Ava Synth",
+    "album": "Binary Ballads",
+    "duration": 30,
+    "preview_file": "This_is_Not_a_Real_Song_preview.mp3"
+  }
+]
