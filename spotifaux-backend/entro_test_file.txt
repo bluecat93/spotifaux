@@ -1,0 +1,4 @@
+some checks for the entro home assigments
+# Access key IDs (20 chars, AKIA/ASIA prefixes)
+const akiaKey = "AKIAZXCVBNMASDFGHJKL";
+const asiaKey = "ASIAZXCVBNMASDFGHJKL";
