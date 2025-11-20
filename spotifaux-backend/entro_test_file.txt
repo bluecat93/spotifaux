@@ -1,6 +1,6 @@
 some checks for the entro home assigments
 
 const creds = {
-  
+  bla
   secretAccessKey: "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY"
 };
