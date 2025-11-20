@@ -1,1 +1,6 @@
 some checks for the entro home assigments
+
+const creds = {
+  accessKeyId: "AKIA1234567890TEST",
+  secretAccessKey: "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY"
+};
